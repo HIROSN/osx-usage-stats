@@ -6,8 +6,8 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "3.1.0",
-    "ejs": "*",
-    "stylus": "*"
+    "express": "^4.16.4",
+    "ejs": "^2.6.1",
+    "stylus": "^0.54.5"
   }
 }
